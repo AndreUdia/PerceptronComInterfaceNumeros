@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="128" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="a5" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="b5" min="-2" pref="26" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="a1" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="b1" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="a2" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="b2" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="c2" min="-2" max="-2" attributes="0"/>
+                                  <Component id="c1" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="a3" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="b3" max="32767" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="a4" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="b4" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="c5" alignment="0" min="-2" pref="38" max="-2" attributes="0"/>
+                          <Component id="c3" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="c4" alignment="0" min="-2" pref="38" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="jScrollPane2" max="32767" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="OK" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="label1" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="taxaAprendizado" alignment="0" min="-2" pref="38" max="-2" attributes="0"/>
+                                          <Component id="limiar" alignment="0" min="-2" pref="38" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="limiar1" min="-2" pref="294" max="-2" attributes="0"/>
+                                          <Component id="taxa" min="-2" pref="294" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="0" pref="24" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="c1" min="-2" max="-2" attributes="0"/>
+                          <Component id="a1" min="-2" max="-2" attributes="0"/>
+                          <Component id="b1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="a2" min="-2" max="-2" attributes="0"/>
+                          <Component id="c2" min="-2" max="-2" attributes="0"/>
+                          <Component id="b2" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="a3" min="-2" max="-2" attributes="0"/>
+                          <Component id="b3" min="-2" max="-2" attributes="0"/>
+                          <Component id="c3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="a4" min="-2" max="-2" attributes="0"/>
+                          <Component id="b4" min="-2" max="-2" attributes="0"/>
+                          <Component id="c4" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="a5" alignment="1" min="-2" max="-2" attributes="0"/>
+                          <Component id="b5" alignment="1" min="-2" max="-2" attributes="0"/>
+                          <Component id="c5" alignment="1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="jScrollPane2" min="-2" pref="113" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="OK" min="-2" max="-2" attributes="0"/>
+                          <Component id="label1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="taxa" max="32767" attributes="0"/>
+                  <Component id="taxaAprendizado" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="limiar" max="32767" attributes="0"/>
+                  <Component id="limiar1" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace pref="39" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="java.awt.Checkbox" name="b1">
+    </Component>
+    <Component class="java.awt.Checkbox" name="a1">
+    </Component>
+    <Component class="java.awt.Checkbox" name="c1">
+    </Component>
+    <Component class="java.awt.Checkbox" name="a2">
+    </Component>
+    <Component class="java.awt.Checkbox" name="c2">
+    </Component>
+    <Component class="java.awt.Checkbox" name="b2">
+    </Component>
+    <Component class="java.awt.Checkbox" name="a3">
+    </Component>
+    <Component class="java.awt.Checkbox" name="b3">
+    </Component>
+    <Component class="java.awt.Checkbox" name="c3">
+    </Component>
+    <Component class="java.awt.Checkbox" name="a4">
+    </Component>
+    <Component class="java.awt.Checkbox" name="b4">
+    </Component>
+    <Component class="java.awt.Checkbox" name="c4">
+    </Component>
+    <Component class="java.awt.Checkbox" name="a5">
+    </Component>
+    <Component class="java.awt.Checkbox" name="b5">
+    </Component>
+    <Component class="java.awt.Checkbox" name="c5">
+    </Component>
+    <Component class="java.awt.Button" name="OK">
+      <Properties>
+        <Property name="actionCommand" type="java.lang.String" value="ok"/>
+        <Property name="label" type="java.lang.String" value="ok"/>
+        <Property name="name" type="java.lang.String" value="ok" noResource="true"/>
+      </Properties>
+      <AccessibilityProperties>
+        <Property name="AccessibleContext.accessibleName" type="java.lang.String" value="ok"/>
+      </AccessibilityProperties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="OKActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="java.awt.Label" name="label1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="SubmetaNumero"/>
+      </Properties>
+      <AccessibilityProperties>
+        <Property name="AccessibleContext.accessibleName" type="java.lang.String" value="SubmetaNumero"/>
+      </AccessibilityProperties>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="texto">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="Marque os checkboxes para pesquisa"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="java.awt.TextField" name="taxaAprendizado">
+    </Component>
+    <Component class="java.awt.TextField" name="limiar">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="limiarActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="taxa">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="digite taxa aprendizado - entre 0 e 1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="limiar1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="digite o valor limiar"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
